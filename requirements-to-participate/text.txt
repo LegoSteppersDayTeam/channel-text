@@ -1,0 +1,141 @@
+These are the Requirements to Participate:
+
+    **--->    Read the <#818480435847626782> and conduct yourselves accordingly.    <---**
+    **--->    Read this entire channel  (<#1210932716099600414>)    <---**
+
+**Before you decide to join a run, set aside __30 minutes to 1 hour__ to go through this list and get what you need to get to meet requirements.**  Raid start time is not the time to start going through this list.  If you are in a party and found not meeting these requirements, the host may choose to bench you.
+
+*(bench = kicked from run, unable to rejoin until the raid leader disbands. benching is not blacklisting)*
+----- ||||| MESSAGE SEPARATOR ||||| -----
+**Before joining a raid, make sure you have the following things:**
+* Requirements for YOU
+ * A willingness to follow a run host's instructions
+ * A willingness to communicate with your teammates.  Unresponsive party members may be benched at the host’s discretion.
+ * Be on the same DC as the host of the run.  If the host doesn’t mention it, assume Aether DC
+ * Set aside 4 hours of time to dedicate towards a single event
+ * Know how to update your server nickname on discord i.e. know how to use /nick
+ * Know how to load actions from the Lost Finds Cache into your Lost Finds Holster, and know how to save and load holster presets.
+ * Know how to **ASK FOR HELP.**  If something is confusing or unclear, please do not ignore any instructions written here or directions issued by your run’s host.  Ask for clarification.
+ * If you do not speak English, say so.  Si no se habla ingles, por favor dice lo.  英語できない方、教えてください。
+* Requirements for YOUR JOB
+ * Be level 80
+ * Have all job skills up through level 80
+ * Have a full set of equipment above item level 1.  Materia not required.
+ * Have at least 80 holster space (be rank 15 and do the holster quest in Gangos)
+* Requirements for YOUR INVENTORY
+ * 10 food of item level 510 (or better)
+ * 16 grade 3 tinctures of <your damage stat> (or better)
+ * 99 antitodes
+* Requirements for YOUR LOST FINDS CACHE
+ * 5 Pure essences of your Role: Indomitable, Divine, Duelist, Fiendhunter, or Elder
+ * 10 Resistance Reraiser
+ * Enough Lost Finds items and actions for one and a half (1.5) runs
+----- ||||| MESSAGE SEPARATOR ||||| -----
+**After joining a raid, but before we instance in do the following:**
+* Update your Lego Steppers server nickname to meet the Raid Nickname Requirements
+* Volunteer for some raid responsibility (experience not required)
+ * 3 people need to bring Lost Perception (“Golem Side Sweep”, “Sweep 2” and “Sweep 3”)
+ * 2 melee DPS need to apply Lost Rend Armor to all enraging encounters (“Rend 1” and “Rend 2”)
+ * 1 person can do the duel, follow host instructions if you want to volunteer for this
+ * 2 people to bring Lost Shell I or II
+ * Any other duties required by a given host
+----- ||||| MESSAGE SEPARATOR ||||| -----
+**Raid Nickname requirements:**
+
+__WHILE IN RAID__ please follow this format: <letter of alliance><letter of role>[experience identifier] <character name>.
+Letter of alliance (required) shall be: A, B, C, D, E, or F, to match the alliance of which you are currently a member
+Letter of role (required) shall only be one of the following: T for Tank, H for Healer, D for DPS
+Character name (required) shall be whatever the full name of your character is in-game
+
+Experience identifier (optional) can be: blank (assuming fresh), or one of the following:
+0 (or blank) - slime/golem trash prog or completely fresh to DRS
+1 - Trinity Seeker prog
+2 - Dahu prog
+3 - Queen's Guard prog
+4 - Phantom prog
+5 - TA prog
+6 - Minotaur prog
+7 - Queen prog
+C - cleared
+
+__For example__, if I was Tank in D team with no slime/golem experience, I would be: DT0 Nacl Free.  In any discord channel in which I can type (like <#818478021563908119>), I would type 
+
+> `/nick`
+
+... wait for the menu and select the nickname command, then continue:
+
+> `/nick DT0 Nacl Free`
+
+This allows hosts and team members to do the following:
+* quickly identify who is missing from voice comms.
+* quickly identify the asker of a question and understand from what perspective they're asking their question. Which character is the person asking the question in voice chat controlling? Between slime and golem sides, of which team are they a member? Tank, Healer, or DPS?
+* see if anyone has not actually read and understood this channel
+* see if anyone is demonstrating an inability or unwillingness to follow directions
+
+**Prog experience does __not__ affect participation eligibility.**  Assume a DRS run is anyprog unless otherwise stated by the host.
+
+Note there are other ways to update nickname.  One can access the server-specific menu with a right click (long press on mobile) on the server icon to the left and select "Edit Server Profile" and update the "Server Nickname".
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Below are holster definitions for new raiders.  If you have experience, feel free to deviate from this but make sure you ensure your team meets the following minimum threshold for survivability:
+* two people must be able to answer TA & Queen raidwides with appropriate mitigation: either a Tank with Lost Aethershield, or a Pseudotank using Lost Stoneskin II
+* two people must bring 2 fights worth of reflect capability and 1 fight’s worth of dispel
+* someone needs to bring Lost Steelsting for Queen’s Guard
+* someone needs to bring Lost Spellforge for Queen’s Guard
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image tank.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image healer.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- TALK TO YOUR HEALER BUDDY IN YOUR PARTY.  Don't both of you start in Spellforge; one of you start in Spellforge, the other starts with Steelsting slotted in.
+- A single Lost Reflect may be replaced with 4 Light Curtains IF YOU KNOW HOW TO TIME REFLECT DURING REFLECT MECHANICS.  Make sure to bring one Lost Reflect for Stygimoloch Lord
+- If you have more than 5 Rays of Succor feel free to leave out the Banner of Solemn Clarity
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image melee.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- If you are responsible for Rend for the raid (i.e. “Rend 1” or “Rend 2”), replace Lost Font of Power with Lost Rend Armor in your Pre-pop, and replace the Lost Font of Power with 2x Lost Rend Armor in your Jump Holster.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image physranged.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image caster.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- __Lost Font of Magic will drain your MP.__  Pack a lot of Resistance Ether Kits, or consider using Lost Chainspell from Zadnor if you have access to it instead of Lost Font of Magic.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image duelist.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- Have a plan for getting damage boosting Lost Actions after returning from the duel; consider the above Jump Holster to be a suggestion.  Your job is to do as much personal damage as possible, so no more Lost Dervish or Lost Cure IV.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image flarestar.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- If you have space for more of them, bring more Resistance Ether Kits.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image pseudohealer.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+- If you’re asked to bring this, it’s because your team only has 1 true healer and the raid host wants to maintain redundancy on critical utility capability.
+- A single Lost Reflect may be replaced with 4 Light Curtains IF YOU KNOW HOW TO TIME REFLECT DURING REFLECT MECHANICS.  Make sure to bring one Lost Reflect for Stygimoloch Lord
+----- ||||| MESSAGE SEPARATOR ||||| -----
+<<<|image pseudotank.png|>>>
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Notes:
+* Requires Resistance Rank 16 since this uses a Zadnor action (Lost Stoneskin II)
+* Replace ??? with a damage action (Lost Font of Power, Lost Font of Magic, Banner of Honored Sacrifice (for Melee), Lost Chainspell, Lost Excellence, etc)
+  * You should have another DPS of the same role in your party doing the actual role-specific thing if you are asked to pseudotank.  You will not be the only melee/physranged/caster in addition to pulling this duty.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Zadnor mentions:
+* Lost Rampage/Lost Burst is available at Rank 16.  This will be requested if the raid host calls for low man slime side strats.  Slime side DPS at Rank 16 or above will need to slot this skill in prior to taking the west jump pad at the cache.
+* Lost Stoneskin II is available at Rank 16 and will be carried by one person on a team with only one true tank, to be active and used during the TA and Queen fights.
+* Lost Blood Rage is available at Rank 25 from Dalriada.  This will never be required unless the host of your run says otherwise, but with practice and combination with Lost Font of Power an experienced tank can generate a high amount of damage during its use.
+* Lost Excellence is available at Rank 25 from Dariada in Zadnor.  This will never be required unless the host of your run says otherwise, but combining it with a Lost Font, Banner of Honored Sacrifice, and appropriate upkeep (Ether Kits for Magic) may allow a DPS team member to generate a high amount of damage during its use.
+* Lost Full Cure is available at Rank 25 from Dalriada in Zadnor.  This will never be required unless the host of your run says otherwise.  Communicate with your team if you plan to use this as __there are important situations where using it will severely impact your team's damage output due to buff capping__.
+----- ||||| MESSAGE SEPARATOR ||||| -----
+Credits:
+* Max Piggy and Zefie Solette for submitting proposals and being part of the process used to update this channel
+* Very Greedy, Vash Calibour, atmuh, Aldous Firevine, and Zefie Solette for informing Max Piggy's proposal to update this channel
+* Max Piggy, Zefie Solette, Vash Calibour, Aldous Firevine for providing intermediate feedback and critical review on submitted proposals
+----- ||||| MESSAGE SEPARATOR ||||| -----
+If you’re reading this channel for the first time click here to start from the top: https://discord.com/channels/818478021563908116/1210932716099600414/1211671042972454912
